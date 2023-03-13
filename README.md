@@ -1,4 +1,4 @@
-## Hi, I'm Youngjin
+## Node Junior Backend Developer
 
 <div>
 	<a href="https://github.com/holyjinny">
@@ -31,8 +31,10 @@
 
 <div>
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" target="_blank"></a><br>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" target="_blank"></a>
   <a href="https://www.render.com" target="_blank"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" target="_blank"></a>
 </div>
+	
+##
 
 ![Snake animation](https://github.com/holyjinny/holyjinny/blob/output/github-contribution-grid-snake.svg)
