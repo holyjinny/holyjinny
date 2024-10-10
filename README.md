@@ -1,4 +1,4 @@
-## Node Junior Backend Developer
+## Python Junior Backend Developer
 
 <div>
 	<a href="https://github.com/holyjinny">
